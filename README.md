@@ -3,7 +3,7 @@
 
 Sou desenvolvedor java back-end. Desenvolvo projetos e sistemas para aplicar minhas habilidades e conhecimentos em programação. 
 
-Gosto de analisar situações que necessitem de melhorias, levantando ideias e soluções em TI. Sou focado em resolver problemas. Meus principais objetivos são: criar formas de resolver e de facilitar as resoluções, de forma eficaz e prática.
+Gosto de analisar situações que necessitam de melhorias, levantando ideias e soluções em TI. Sou focado em resolver problemas. Meus principais objetivos são: criar formas de resolver e de facilitar as resoluções, de forma eficaz e prática.
 
 <h4>Abaixo, algumas tecnologias que costumo trabalhar:</h4>
 

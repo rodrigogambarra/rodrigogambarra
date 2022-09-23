@@ -1,9 +1,13 @@
 
 <h3>Bem-vindo(a) ao meu repositório do GitHub!</h3>
 
-Sou desenvolvedor java back-end. Desenvolvo projetos e sistemas para aplicar minhas habilidades e conhecimentos em programação. 
+Sou desenvolvedor Java Back-End. 
 
-Gosto de analisar situações que necessitam de melhorias, levantando ideias e soluções em TI. Sou focado em resolver problemas. Meus principais objetivos são: criar formas de resolver e de facilitar as resoluções, de forma eficaz e prática.
+Principais tecnologias: Java, Spring Boot, Spring Security, Spring Data, Hibernate, MySQL, PostgreSQL, JPA, Maven, Thymeleaf, JavaScript, HTML, CSS, Git, GitHub.
+
+Realizo a criação de páginas web dinâmicas, interativas e responsivas. Em meus projetos já trabalhei com sistemas monolitos e sistemas distribuídos, criação e consumo de API's. 
+
+Tenho paixão por programação e novas tecnologias. Gosto de novos desafios e projetos desafiadores. Participo de comunidades e fóruns de desenvolvedores, como Discord e fórum StackOverflow.
 
 <h4>Abaixo, algumas tecnologias que costumo trabalhar:</h4>
 

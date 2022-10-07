@@ -5,9 +5,9 @@ Sou desenvolvedor Java Back-End.
 
 Principais tecnologias: Java, Spring Boot, Spring Security, Spring Data, Hibernate, MySQL, PostgreSQL, JPA, Maven, Thymeleaf, JavaScript, HTML, CSS, Git, GitHub.
 
-Realizo a criação de páginas web dinâmicas, interativas e responsivas. Em meus projetos já trabalhei com sistemas monolitos e sistemas distribuídos, criação e consumo de API's. 
+Desenvolvimento de páginas web dinâmicas, interativas e responsivas. Já trabalhei com sistemas monolitos e sistemas distribuídos, criação e consumo de API's. 
 
-Tenho paixão por programação e novas tecnologias. Gosto de novos desafios e projetos desafiadores. Participo de comunidades e fóruns de desenvolvedores, como Discord e fórum StackOverflow.
+Gosto de novos desafios e projetos desafiadores. Participo de comunidades e fóruns de desenvolvedores, como Discord e fórum StackOverflow.
 
 <h4>Abaixo, algumas tecnologias que costumo trabalhar:</h4>
 

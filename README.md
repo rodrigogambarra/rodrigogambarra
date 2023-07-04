@@ -1,5 +1,5 @@
 
-<h3>Bem-vindo(a) ao meu repositório do GitHub!</h3>
+<h3>Bem-vindo(a)!</h3>
 
 Sou desenvolvedor Java Back-End. 
 
